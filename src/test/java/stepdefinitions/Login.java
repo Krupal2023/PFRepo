@@ -14,6 +14,7 @@ import pages.LoginPage;
 import utils.CommanUtils;
 //This is a login test
 public class Login {
+	//Test login method
 	WebDriver driver;
 	private LoginPage loginpage;
 	private AccountPage accoutpage;
